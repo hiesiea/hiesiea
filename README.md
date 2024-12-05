@@ -1,6 +1,6 @@
 # hiesiea
 
-職務経歴書は[こちら](https://hiesiea.github.io/resume/)
+[職務経歴書](https://hiesiea.github.io/resume/)
 
 [![Hitoshi Kamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiesiea&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
